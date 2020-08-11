@@ -6,7 +6,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * @author banglib
  * @date 2020/8/8 22:53
  */
-public class AtomicIntegerTextDemo {
+public class AtomicIntegerDemo {
 
 
     private AtomicInteger count = new AtomicInteger();
